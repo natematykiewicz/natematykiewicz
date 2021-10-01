@@ -15,6 +15,7 @@ I enjoy contributing to open source projects that I use:
 Topics that interest me are:
 
 - Ruby on Rails
+- PostgreSQL
 - Performance
 - Hotwire
 - GraphQL
