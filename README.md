@@ -7,10 +7,10 @@ I help maintain [Ruby API](https://rubyapi.org) (a user-friendly Ruby documentat
 
 I enjoy contributing to open source projects that I use:
 
-- [RubyAPI](https://github.com/rubyapi/rubyapi/pulls?q=is%3Apr+author%3Anatematykiewicz+)
-- [Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Anatematykiewicz+)
-- [Sidekiq](https://github.com/mperham/sidekiq/pulls?q=is%3Apr+author%3Anatematykiewicz+)
-- [Rubocop](https://github.com/rubocop/rubocop/issues?q=is%3Aissue+author%3A%40me+)
+- [RubyAPI](https://github.com/rubyapi/rubyapi/issues?q=author%3Anatematykiewicz)
+- [Rails](https://github.com/rails/rails/issues?q=author%3Anatematykiewicz)
+- [Sidekiq](https://github.com/mperham/sidekiq/issues?q=author%3Anatematykiewicz)
+- [Rubocop](https://github.com/rubocop/rubocop/issues?q=author%3Anatematykiewicz) &amp; [Rubocop-Rails](https://github.com/rubocop/rubocop-rails/issues?q=author%3Anatematykiewicz)
 
 Topics that interest me are:
 
