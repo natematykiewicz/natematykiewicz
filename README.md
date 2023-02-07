@@ -18,10 +18,8 @@ Topics that interest me are:
 - PostgreSQL
 - Performance
 - Hotwire
-- GraphQL
 - Neovim
 - OhMyZsh
-- VueJS
 
 Currently reading:
 
